@@ -56,3 +56,20 @@ The project relies on the following Python libraries:
 
 These dependencies are listed in the `requirements.txt` file.
 
+## Plots
+
+The plots included in this project are designed to offer a comprehensive view of stock performance. For my purposes I chose to look at the AAPL stock, however any of the four stocks I included can be used!
+
+The Adj. Close over a year
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_1.png?raw=true)
+
+The volume of the stock traded over a year
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_2.png?raw=true)
+
+The Moving Average
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_4.png?raw=true)
+
+The Daily Returns of the stock
+![App Screemshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_5.png?raw=true)
+![App Screemshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_6.png?raw=true)
+
