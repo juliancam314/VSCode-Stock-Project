@@ -12,7 +12,7 @@ This project analyzes stock data using Python and various libraries.
 ## Introduction
 
 This project analyzes stock data for a selected list of tech companies, including Apple (AAPL), Google (GOOG), Microsoft (MSFT), and Amazon (AMZN). It uses the Yahoo Finance API to fetch stock data and various Python libraries such as Pandas, Matplotlib, and Seaborn for data analysis and visualization.
-In this project I try to answer the six following questions:
+In this project I try to answer the following questions:
 
 1.) What was the change in price of the stock over time?
 
