@@ -8,6 +8,7 @@ This project analyzes stock data using Python and various libraries.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Plots](#plots)
 
 ## Introduction
 
