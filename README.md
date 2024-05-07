@@ -70,6 +70,23 @@ The Moving Average
 ![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_4.png?raw=true)
 
 The Daily Returns of the stock
-![App Screemshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_5.png?raw=true)
-![App Screemshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_6.png?raw=true)
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_5.png?raw=true)
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_6.png?raw=true)
 
+The next four plots are used show the correlation between the stocks in the list:
+
+Joint Plot to show correlation between AMZN and AAPL stock
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_7.png?raw=true)
+
+Pairplot to compare every combination of stocks in the list
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_8.png?raw=true)
+
+Pairgrid to repeat analysis of all combinations
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_8.png?raw=true)
+
+Heatmap to show correlation
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_10.png?raw=true)
+
+The final plot below shows the risk of each stock. Furthermore, the quantile function was used to caluclate the risk of each stock.
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_11.png?raw=true)
+![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure%2013.JPG?raw=true)
