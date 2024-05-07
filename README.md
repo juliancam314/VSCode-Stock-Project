@@ -61,7 +61,6 @@ These dependencies are listed in the `requirements.txt` file.
 The plots included in this project are designed to offer a comprehensive view of stock performance. For my purposes I chose to look at the AAPL stock, however any of the four stocks I included can be used!
 
 The Adj. Close over a year
-
 ![App Screenshot](https://github.com/juliancam314/VSCode-Stock-Project/blob/master/Figure_1.png?raw=true)
 
 The volume of the stock traded over a year
